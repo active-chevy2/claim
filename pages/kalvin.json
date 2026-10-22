@@ -1,0 +1,13 @@
+{
+  "mode": "instant",
+  "owner": { "github": "yourusername" },
+  "page": {
+    "type": "person",
+    "title": "Kalvin Carefour Johnny",
+    "tagline": "Tech enthusiast. Let's connect or just co-exist.",
+    "avatar": "https://files.mastodon.social/accounts/avatars/117/398/653/305/381/977/original/3f3f9e5bb1a12867.jpg",
+    "theme": "sunrise",
+    "links": [{ "label": "GitHub", "url": "https://github.com/active-chevy2" }],
+    "sections": [{ "heading": "About", "text": "I'm an enthusiast when it comes to technology. Let's get in touch or just live alongside one another." }]
+  }
+}
